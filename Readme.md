@@ -3,13 +3,16 @@
 
 
 Teacher Class :
+
 id , name , age , email , salary ( Add all required validation )
 
 Address Class :
+
 area , street , buildingNumber ( Add all required validation )
 
 
 One To One relations:
+
 Teacher - Address
 
 
